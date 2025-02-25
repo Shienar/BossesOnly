@@ -1,0 +1,29 @@
+Configs: {
+	BOConfig: {
+		DisplayName: B O Config
+
+		toggleBossesOnly: {
+			Label: toggle Bosses Only
+			Tooltip: ""
+		}
+
+		onlyOneBoss: {
+			Label: only One Boss
+			Tooltip: ""
+		}
+	}
+
+	BossesOnlyConfig: {
+		DisplayName: Bosses Only Config
+
+		toggleBossesOnly: {
+			Label: toggle Bosses Only
+			Tooltip: ""
+		}
+
+		onlyOneBoss: {
+			Label: only One Boss
+			Tooltip: ""
+		}
+	}
+}

@@ -1,0 +1,16 @@
+This mod turns all non-boss enemies into the next unbeaten boss that the "Boss Checklist" mod lists for progression. This mod doesn't work without the "Boss Checklist" mod.
+
+Update 0.5:
+- Added two new mod config options.
+	- Toggle whether or not enemies will be turned into bosses.
+	- Toggle whether or not multiple bosses can spawn at once. This gives players the power to prevent certain modded bosses from self-duplicating infinitely.
+
+Update 0.4:
+- The brain of cthulhu will now spawn in place of the eater of worlds for worlds with the crimson evil.
+
+Update 0.3:
+- Added a fix for the destroyer self-duplicating
+
+Update 0.2:
+- Fixed various bugs that allowed bosses to self-duplicate from spawned minions.
+- Now spawns both twins at once, not just one.

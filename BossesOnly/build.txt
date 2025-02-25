@@ -1,0 +1,3 @@
+displayName = Convert All Enemies to Bosses
+author = Shienar
+version = 0.5

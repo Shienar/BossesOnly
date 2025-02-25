@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FUqK6a8Nms8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\grant\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\BossesOnly\\BossesOnly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grant\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
